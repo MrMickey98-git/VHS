@@ -1,0 +1,5 @@
+{
+  "name": "VHS Tape Maker",
+  "description": "An application that allows users to upload MP4 videos and convert them into retro-style VHS tapes, complete with authentic visual effects and AI-generated titles.",
+  "requestFramePermissions": []
+}
